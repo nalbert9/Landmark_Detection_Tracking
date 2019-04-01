@@ -1,4 +1,4 @@
-# Landmark_Detection_Tracking
+# Landmark Detection & Robot Tracking
 This project was created as part of a submission for Computer Vision, Nanodegree  via [Udacity](https://eu.udacity.com/course/computer-vision-nanodegree--nd891). It combine knowledge of robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time.
 
 ## Project Overview
