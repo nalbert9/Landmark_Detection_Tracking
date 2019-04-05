@@ -77,7 +77,7 @@ class robot:
             One item in the returned list should be in the form: [landmark_index, dx, dy].
             '''
            
-        measurements = None
+        measurements = []
         
         ## TODO: iterate through all of the landmarks in a world
         
@@ -93,7 +93,7 @@ class robot:
         ## TODO: return the final, complete list of measurements
         dx, dy = 0, 0
         
-        for index in range(num_landmarks):
+        for index in range(self.num_landmarks):
             # Compute dx and dy
             dx = self.landmarks[index][0] - self.x
             dy = self.landmarks[index][1] - self.y
@@ -103,9 +103,7 @@ class robot:
             dx, dy = dx + noise, dy + noise
             
             # Check dx and dy values
-            if (dx > self.measurement_range) or (dy > self.measurement_range):
-                print("dx or dy outside of the internal var")
-            else:
+            if (self.measurement_range < 0.0) or (abs(dx) + abs(dy) <= self.measurement_range):
                 measurements.append([index, dx, dy]) 
         
         return measurements
