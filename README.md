@@ -9,6 +9,7 @@ Implement Graph SLAM (Simultaneous Localization and Mapping), a robust method fo
 <p align="center">
 	<img src="images/robot_world.png" align="middle" alt="drawing" width="500px">
 </p>
+
 ## Project Structure
 The project is structured as a series of Jupyter notebooks that arewritten in Python and designed to be completed in sequential order:
 
