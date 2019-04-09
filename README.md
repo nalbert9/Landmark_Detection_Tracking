@@ -25,13 +25,14 @@ __Notebook 3__ : Landmark Detection and Tracking.
  True last pose       | x=24.09 y=62.98      
  -------------------  |--------------------
  Predicted last pose  | x=23.45 y=64.13      
- -------------------  |--------------------
+
 
 **Landmarks:**
+
  True Landmark        | [[22, 91], [3, 58], [76, 52], [73, 80], [49, 6]]                      
  -------------------  | ---------------------------------------------------------------------
  Estimated Landmarks  | [[21.8, 90.9], [3.1, 58.2], [76.2, 52.3], [73.4, 80.4], [49.1, 6.2]]  
- -------------------  | ---------------------------------------------------------------------
+
 
 ## Licence
 This project is licensed under the terms of the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
