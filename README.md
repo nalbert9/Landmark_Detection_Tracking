@@ -4,7 +4,7 @@ This project was created as part of a submission for Computer Vision, Nanodegree
 ## Project Overview
 Implement Graph SLAM (Simultaneous Localization and Mapping), a robust method for tracking an object over time and mapping out its surronding environment, using elements of probability, motion models and linear algebra. 
 
-Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.
+*Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.*
 
 <p align="center">
 	<img src="images/robot_world.png" align="middle" alt="drawing" width="500px">
