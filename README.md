@@ -2,7 +2,7 @@
 This project was created as part of a submission for Computer Vision, Nanodegree  via [Udacity](https://eu.udacity.com/course/computer-vision-nanodegree--nd891). It combine knowledge of robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time.
 
 ## Project Overview
-Implement Graph SLAM (Simultaneous Localization and Mapping), a robust method for tracking an object over time and mapping out its surronding environment, using elements of probability, motion models and linear algebra. 
+There is a large variety of SLAM (Simultaneous Localization and Mapping) approaches available in the robotics community. Throughout this work we focus on *graph-based SLAM* approach, a robust method for tracking an object over time and mapping out its surronding environment, using elements of probability, motion models and linear algebra. 
 
 *Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.*
 
