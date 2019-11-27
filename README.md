@@ -22,7 +22,7 @@ __Notebook 3__ : Landmark Detection and Tracking.
 
 ## Installation
 ```sh
-$ git clone https://github.com/gfoxx29/Landmark_Detection_Tracking.git
+$ git clone https://github.com/nalbert9/Landmark_Detection_Tracking.git
 $ sudo pip3 install -r requirements.txt
 ```
 ## Results
