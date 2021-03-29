@@ -1,5 +1,5 @@
 # Landmark Detection & Robot Tracking
-This repository contains project files for Computer Vision, Nanodegree  via [Udacity](https://eu.udacity.com/course/computer-vision-nanodegree--nd891). It combine knowledge of robot sensor measurements and movement to create a map of an environment over time.
+This repository contains project files for Computer Vision. It combine knowledge of robot sensor measurements and movement to create a map of an environment over time.
 
 ## Project Overview
 There is a large variety of SLAM (Simultaneous Localization and Mapping) approaches available in the robotics community. Throughout this work we focus on *graph-based SLAM* approach, a robust method for tracking an object over time and mapping out its surronding environment, using elements of probability, motion models and linear algebra. 
